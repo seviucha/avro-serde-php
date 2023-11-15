@@ -38,6 +38,12 @@
     "symfony/serializer": "^3.4|^4.3",
     "doctrine/annotations": "^1.11"
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/seviucha/schema-registry-php-client"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "FlixTech\\AvroSerializer\\Objects\\": "src/Objects",
