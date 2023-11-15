@@ -25,7 +25,7 @@
   "require": {
     "php": "^7.3|^8.0",
     "beberlei/assert": "^2.9.9|~3.0",
-    "flix-tech/confluent-schema-registry-api": "dev-master#e0e2fad12e9c161001d6e54d0119d368046fd59f",
+    "flix-tech/schema-registry-php-client": "dev-master#e0e2fad12e9c161001d6e54d0119d368046fd59f",
     "guzzlehttp/promises": "^2.0",
     "flix-tech/avro-php": "^5.0",
     "widmogrod/php-functional": "^6.0"
